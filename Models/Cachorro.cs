@@ -13,8 +13,8 @@ namespace Projeto_jcm_g3_eixo_4_2025_1.Models
         [Display(Name = "Nome")]
         public string Nome { get; set; }
 
-        [Required(ErrorMessage = "Obrigatório informar a data de nascimento do cachorro!")]
-        [Display(Name = "Nascimento")]
+        [Required(ErrorMessage = "Obrigatório informar o Ano de nascimento do cachorro!")]
+        [Display(Name = "Ano de Nascimento")]
         public int Nascimento { get; set; }
 
         [Display(Name = "Raça")]
