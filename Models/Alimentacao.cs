@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Projeto_jcm_g3_eixo_4_2025_1.Models
 {
     [Table("Alimentações")]
-    public class Alimentacao
+    public class Alimentacao : LinksHATEOS
     {
         [Key]
         public int Id { get; set; }
