@@ -22,5 +22,7 @@ namespace Projeto_jcm_g3_eixo_4_2025_1.Models
 
         public ICollection<Alimentacao> Alimentacoes { get; set; }
 
+        public ICollection<CachorroUsuarios> Usuarios { get; set; }
+
     }
 }
