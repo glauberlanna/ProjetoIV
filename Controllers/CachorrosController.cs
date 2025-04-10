@@ -45,7 +45,7 @@ namespace Projeto_jcm_g3_eixo_4_2025_1.Controllers
                 .FirstOrDefaultAsync(c => c.Id == id);
             if (model == null) return NotFound();
 
-        //    GerarLinks(model);
+
             return Ok(model);
         }
 
