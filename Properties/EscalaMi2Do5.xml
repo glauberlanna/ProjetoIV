@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1">
+<score-partwise version="3.1">
+  <part-list>
+    <score-part id="P1">
+      <part-name>P1</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+<!--============== Part: P1, Compasso: 1 ==============-->
+    <measure number="1">
+<!--=== Nota: Mi2 ===-->
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Fa2 ===-->
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Sol2 ===-->
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: La2 ===-->
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+<!--============== Part: P1, Compasso: 2 ==============-->
+    <measure number="2">
+<!--=== Nota: Si2 ===-->
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Do3 ===-->
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Re3 ===-->
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Mi3 ===-->
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+<!--============== Part: P1, Compasso: 3 ==============-->
+    <measure number="3">
+<!--=== Nota: Fa3 ===-->
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Sol3 ===-->
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: La3 ===-->
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Si3 ===-->
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+<!--============== Part: P1, Compasso: 4 ==============-->
+    <measure number="4">
+<!--=== Nota: Do4 ===-->
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Re4 ===-->
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Mi4 ===-->
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Fa4 ===-->
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+<!--============== Part: P1, Compasso: 5 ==============-->
+    <measure number="5">
+<!--=== Nota: Sol4 ===-->
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: La4 ===-->
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Si4 ===-->
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+<!--=== Nota: Do5 ===-->
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+  </part>
+</score-partwise>
